@@ -1,5 +1,4 @@
 # Allmap_API
-## This is the source code and api of the server that runs from the back_end of an application called 'All_map'.
 
 ## ❗ Before watch this project / 이 프로젝트를 보기 전에
 ### This project is Server project
@@ -7,9 +6,9 @@
 # 🔒Project : All-mapAPI / 프로젝트 : All-mapAPI
 
 ## ❔ Purpose / 목적
-This project is All_map's server step project.
+Context of this repository is the source code and api of the server that runs from the back_end of an application called 'All_map'.
 
-이 프로젝트는 All_map의 서버 단계 프로젝트입니다.
+이 레포지토리의 내용은 All_map이라고 불리는 어플리케이션의 백엔드에서 동작할 서버의 소스코드와 api입니다.
 
 ## 🎁 Function / 기능
 - 
